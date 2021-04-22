@@ -1,8 +1,6 @@
 # Chattrbox CPSC 349 Spring 2021
 Chattrbox is a lightweight chatting application.
 
-permalink: /index.js
-
 ![Chattrbox demo image](/img/demo.jpg)
 
 ## Project Requirements
