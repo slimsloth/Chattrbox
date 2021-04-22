@@ -1,10 +1,10 @@
 # Chattrbox CPSC 349 Spring 2021
 Chattrbox is a lightweight chatting application.
 
-
+![Chattrbox demo image](/img/demo.jpg)
 
 ## Project Requirements
-- [x] When npm watch is running, Chattrbox can be viewed at http://localhost:3000 
+- [x] When npm watch is running, Chattrbox can be viewed at http://localhost:3000
 
 - [x] Installed Parcel, Babel, Browserify, and related utities.
 
